@@ -25,3 +25,4 @@ print(f"Lucky Number 🍀: {lucky_number()}")
 print(f"Random Joke 🤣: {random_joke()}")
 print("Generated at:", time.strftime("%Y-%m-%d %H:%M:%S"))
 print("================================\n")
+#i changed krupa file
